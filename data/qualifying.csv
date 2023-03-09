@@ -3690,3 +3690,23 @@ season,round,grid,circuit_id,driver,fastest_time,stage,q_delta
 2022,22,7,yas_marina,lando_norris,84.769,q3,0.9450000000000074
 2022,22,8,yas_marina,esteban_ocon,84.83,q3,1.0060000000000002
 2022,22,9,yas_marina,sebastian_vettel,84.961,q3,1.1370000000000005
+2023,1,1,bahrain,max_verstappen,89.708,q3,0.0
+2023,1,10,bahrain,nico_hulkenberg,90.809,q2,1.100999999999999
+2023,1,11,bahrain,lando_norris,91.381,q2,1.6730000000000018
+2023,1,12,bahrain,valtteri_bottas,91.443,q2,1.7349999999999994
+2023,1,13,bahrain,guanyu_zhou,91.473,q2,1.7650000000000006
+2023,1,14,bahrain,yuki_tsunoda,92.51,q2,2.8020000000000067
+2023,1,15,bahrain,alexander_albon,91.461,q1,1.7530000000000001
+2023,1,16,bahrain,logan_sargeant,91.652,q1,1.9440000000000026
+2023,1,17,bahrain,kevin_magnussen,91.892,q1,2.1839999999999975
+2023,1,18,bahrain,oscar_piastri,92.101,q1,2.3930000000000007
+2023,1,19,bahrain,nyck_de vries,92.121,q1,2.4129999999999967
+2023,1,2,bahrain,sergio_perez,89.846,q3,0.13800000000000523
+2023,1,20,bahrain,pierre_gasly,92.181,q1,2.472999999999999
+2023,1,3,bahrain,charles_leclerc,90.0,q3,0.2920000000000016
+2023,1,4,bahrain,carlos_sainz,90.154,q3,0.44599999999999795
+2023,1,5,bahrain,fernando_alonso,90.336,q3,0.6280000000000001
+2023,1,6,bahrain,george_russell,90.34,q3,0.632000000000005
+2023,1,7,bahrain,lewis_hamilton,90.384,q3,0.6760000000000019
+2023,1,8,bahrain,lance_stroll,90.836,q3,1.1280000000000001
+2023,1,9,bahrain,esteban_ocon,90.984,q3,1.2759999999999962

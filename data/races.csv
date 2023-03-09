@@ -181,3 +181,26 @@ season,round,circuit_id,country,lat,long,url,date
 2022,20,rodriguez,Mexico,19.4042,-99.0907,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix,2022-10-30 20:00:00
 2022,21,interlagos,Brazil,-23.7036,-46.6997,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix,2022-11-13 18:00:00
 2022,22,yas_marina,UAE,24.4672,54.6031,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix,2022-11-20 13:00:00
+2023,1,bahrain,Bahrain,26.0325,50.5106,https://en.wikipedia.org/wiki/2023_Bahrain_Grand_Prix,2023-03-05 15:00:00
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix,2023-03-19 17:00:00
+2023,3,albert_park,Australia,-37.8497,144.968,https://en.wikipedia.org/wiki/2023_Australian_Grand_Prix,2023-04-02 05:00:00
+2023,4,baku,Azerbaijan,40.3725,49.8533,https://en.wikipedia.org/wiki/2023_Azerbaijan_Grand_Prix,2023-04-30 11:00:00
+2023,5,miami,USA,25.9581,-80.2389,https://en.wikipedia.org/wiki/2023_Miami_Grand_Prix,2023-05-07 19:30:00
+2023,6,imola,Italy,44.3439,11.7167,https://en.wikipedia.org/wiki/2023_Emilia_Romagna_Grand_Prix,2023-05-21 13:00:00
+2023,7,monaco,Monaco,43.7347,7.42056,https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix,2023-05-28 13:00:00
+2023,8,catalunya,Spain,41.57,2.26111,https://en.wikipedia.org/wiki/2023_Spanish_Grand_Prix,2023-06-04 13:00:00
+2023,9,villeneuve,Canada,45.5,-73.5228,https://en.wikipedia.org/wiki/2023_Canadian_Grand_Prix,2023-06-18 18:00:00
+2023,10,red_bull_ring,Austria,47.2197,14.7647,https://en.wikipedia.org/wiki/2023_Austrian_Grand_Prix,2023-07-02 13:00:00
+2023,11,silverstone,UK,52.0786,-1.01694,https://en.wikipedia.org/wiki/2023_British_Grand_Prix,2023-07-09 14:00:00
+2023,12,hungaroring,Hungary,47.5789,19.2486,https://en.wikipedia.org/wiki/2023_Hungarian_Grand_Prix,2023-07-23 13:00:00
+2023,13,spa,Belgium,50.4372,5.97139,https://en.wikipedia.org/wiki/2023_Belgian_Grand_Prix,2023-07-30 13:00:00
+2023,14,zandvoort,Netherlands,52.3888,4.54092,https://en.wikipedia.org/wiki/2023_Dutch_Grand_Prix,2023-08-27 13:00:00
+2023,15,monza,Italy,45.6156,9.28111,https://en.wikipedia.org/wiki/2023_Italian_Grand_Prix,2023-09-03 13:00:00
+2023,16,marina_bay,Singapore,1.2914,103.864,https://en.wikipedia.org/wiki/2023_Singapore_Grand_Prix,2023-09-17 12:00:00
+2023,17,suzuka,Japan,34.8431,136.541,https://en.wikipedia.org/wiki/2023_Japanese_Grand_Prix,2023-09-24 05:00:00
+2023,18,losail,Qatar,25.49,51.4542,https://en.wikipedia.org/wiki/2023_Qatar_Grand_Prix,2023-10-08 14:00:00
+2023,19,americas,USA,30.1328,-97.6411,https://en.wikipedia.org/wiki/2023_United_States_Grand_Prix,2023-10-22 19:00:00
+2023,20,rodriguez,Mexico,19.4042,-99.0907,https://en.wikipedia.org/wiki/2023_Mexico_City_Grand_Prix,2023-10-29 20:00:00
+2023,21,interlagos,Brazil,-23.7036,-46.6997,https://en.wikipedia.org/wiki/2023_S%C3%A3o_Paulo_Grand_Prix,2023-11-05 17:00:00
+2023,22,vegas,United States,36.1147,-115.173,https://en.wikipedia.org/wiki/2023_Las_Vegas_Grand_Prix,2023-11-19 06:00:00
+2023,23,yas_marina,UAE,24.4672,54.6031,https://en.wikipedia.org/wiki/2023_Abu_Dhabi_Grand_Prix,2023-11-26 13:00:00
