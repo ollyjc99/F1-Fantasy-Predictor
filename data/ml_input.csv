@@ -3572,3 +3572,23 @@ season,round,podium,driver,constructor,circuit_id,driver_points_from,qualifying_
 2023,1,18,esteban_ocon,alpine,bahrain,0.0,9,1,0.0,0.0,0.0,0.0,0,0,1,1,0.0,0.0
 2023,1,19,charles_leclerc,ferrari,bahrain,0.0,3,1,0.0,0.0,0.0,0.0,0,0,1,1,0.0,0.0
 2023,1,20,oscar_piastri,mclaren,bahrain,0.0,18,0,0.0,0.0,0.0,0.0,0,0,1,1,0.0,0.0
+2023,2,1,sergio_perez,red_bull,jeddah,25.0,1,1,9.0,21.5,43.0,18.0,0,1,1,2,18.0,43.0
+2023,2,2,max_verstappen,red_bull,jeddah,19.0,15,0,12.5,21.5,43.0,25.0,1,1,1,1,25.0,43.0
+2023,2,3,fernando_alonso,aston_martin,jeddah,15.0,3,1,7.5,11.5,23.0,15.0,0,0,2,3,15.0,23.0
+2023,2,4,george_russell,mercedes,jeddah,12.0,4,1,3.0,8.0,16.0,6.0,0,0,3,7,6.0,16.0
+2023,2,5,lewis_hamilton,mercedes,jeddah,10.0,8,1,5.0,8.0,16.0,10.0,0,0,3,5,10.0,16.0
+2023,2,6,carlos_sainz,ferrari,jeddah,8.0,5,1,6.0,6.0,12.0,12.0,0,0,4,4,12.0,12.0
+2023,2,7,charles_leclerc,ferrari,jeddah,6.0,2,1,0.0,6.0,12.0,0.0,0,0,4,19,0.0,12.0
+2023,2,8,esteban_ocon,alpine,jeddah,4.0,7,1,0.0,1.0,2.0,0.0,0,0,6,18,0.0,2.0
+2023,2,9,pierre_gasly,alpine,jeddah,2.0,10,1,1.0,1.0,2.0,2.0,0,0,6,9,2.0,2.0
+2023,2,10,kevin_magnussen,haas,jeddah,1.0,13,0,0.0,0.0,0.0,0.0,0,0,9,13,0.0,0.0
+2023,2,11,yuki_tsunoda,alphatauri,jeddah,0.0,16,0,0.0,0.0,0.0,0.0,0,0,8,11,0.0,0.0
+2023,2,12,nico_hulkenberg,haas,jeddah,0.0,11,0,0.0,0.0,0.0,0.0,0,0,9,15,0.0,0.0
+2023,2,13,zhou_guanyu,alfa,jeddah,0.0,12,0,0.0,2.0,4.0,0.0,0,0,5,16,0.0,4.0
+2023,2,14,nyck_de vries,alphatauri,jeddah,0.0,18,0,0.0,0.0,0.0,0.0,0,0,8,14,0.0,0.0
+2023,2,15,oscar_piastri,mclaren,jeddah,0.0,9,1,0.0,0.0,0.0,0.0,0,0,10,20,0.0,0.0
+2023,2,16,logan_sargeant,williams,jeddah,0.0,20,0,0.0,0.5,1.0,0.0,0,0,7,12,0.0,1.0
+2023,2,17,lando_norris,mclaren,jeddah,0.0,19,0,0.0,0.0,0.0,0.0,0,0,10,17,0.0,0.0
+2023,2,18,valtteri_bottas,alfa,jeddah,0.0,14,0,2.0,2.0,4.0,4.0,0,0,5,8,4.0,4.0
+2023,2,19,alexander_albon,williams,jeddah,0.0,17,0,0.5,0.5,1.0,1.0,0,0,7,10,1.0,1.0
+2023,2,20,lance_stroll,aston_martin,jeddah,0.0,6,1,4.0,11.5,23.0,8.0,0,0,2,6,8.0,23.0

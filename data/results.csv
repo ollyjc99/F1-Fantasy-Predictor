@@ -3726,3 +3726,23 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 2023,1,bahrain,esteban_ocon,1996-09-17,French,alpine,9,,Mechanical,0.0,18,1:36.797
 2023,1,bahrain,charles_leclerc,1997-10-16,Monegasque,ferrari,3,,Engine,0.0,19,1:37.170
 2023,1,bahrain,oscar_piastri,2001-04-06,Australian,mclaren,18,,Electrical,0.0,20,1:40.691
+2023,2,jeddah,sergio_perez,1990-01-26,Mexican,red_bull,1,4874894.0,Finished,25.0,1,1:21:14.894
+2023,2,jeddah,max_verstappen,1997-09-30,Dutch,red_bull,15,4880249.0,Finished,19.0,2,1:21:20.249
+2023,2,jeddah,fernando_alonso,1981-07-29,Spanish,aston_martin,2,4895622.0,Finished,15.0,3,1:21:35.622
+2023,2,jeddah,george_russell,1998-02-15,British,mercedes,3,4900760.0,Finished,12.0,4,1:21:40.760
+2023,2,jeddah,lewis_hamilton,1985-01-07,British,mercedes,7,4905959.0,Finished,10.0,5,1:21:45.959
+2023,2,jeddah,carlos_sainz,1994-09-01,Spanish,ferrari,4,4910770.0,Finished,8.0,6,1:21:50.770
+2023,2,jeddah,charles_leclerc,1997-10-16,Monegasque,ferrari,12,4918056.0,Finished,6.0,7,25:57.184
+2023,2,jeddah,esteban_ocon,1996-09-17,French,alpine,6,4927726.0,Finished,4.0,8,1:22:07.726
+2023,2,jeddah,pierre_gasly,1996-02-07,French,alpine,9,4929641.0,Finished,2.0,9,1:22:09.641
+2023,2,jeddah,kevin_magnussen,1992-10-05,Danish,haas,13,4939720.0,Finished,1.0,10,1:22:19.720
+2023,2,jeddah,yuki_tsunoda,2000-05-11,Japanese,alphatauri,16,4942388.0,Finished,0.0,11,1:22:22.388
+2023,2,jeddah,nico_hulkenberg,1987-08-19,German,haas,10,4945482.0,Finished,0.0,12,47:05.946
+2023,2,jeddah,guanyu_zhou,1999-05-30,Chinese,alfa,11,4950954.0,Finished,0.0,13,1:22:30.954
+2023,2,jeddah,nyck_de vries,1995-02-06,Dutch,alphatauri,18,4952372.0,Finished,0.0,14,1:22:32.372
+2023,2,jeddah,oscar_piastri,2001-04-06,Australian,mclaren,8,4959915.0,Finished,0.0,15,1:22:39.915
+2023,2,jeddah,logan_sargeant,2000-12-31,American,williams,20,4961187.0,Finished,0.0,16,1:22:41.187
+2023,2,jeddah,lando_norris,1999-11-13,British,mclaren,19,4961339.0,Finished,0.0,17,1:22:41.339
+2023,2,jeddah,valtteri_bottas,1989-08-28,Finnish,alfa,14,,+1 Lap,0.0,18,1:21:44.478
+2023,2,jeddah,alexander_albon,1996-03-23,Thai,williams,17,,Brakes,0.0,19,
+2023,2,jeddah,lance_stroll,1998-10-29,Canadian,aston_martin,5,,Engine,0.0,20,

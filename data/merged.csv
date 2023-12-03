@@ -3710,3 +3710,23 @@ season,round,circuit_id,country,lat,long,date,driver,date_of_birth,nationality,c
 2023,1,bahrain,Bahrain,26.0325,50.5106,2023-03-05 15:00:00,esteban_ocon,1996-09-17,French,alpine,18,0,0,18,2,0,6,9,q3,1.2759999999999962
 2023,1,bahrain,Bahrain,26.0325,50.5106,2023-03-05 15:00:00,charles_leclerc,1997-10-16,Monegasque,ferrari,19,0,0,19,12,0,4,3,q3,0.2920000000000016
 2023,1,bahrain,Bahrain,26.0325,50.5106,2023-03-05 15:00:00,oscar_piastri,2001-04-06,Australian,mclaren,20,0,0,20,0,0,10,18,q1,2.3930000000000007
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,sergio_perez,1990-01-26,Mexican,red_bull,1,43,1,2,87,2,1,1,q3,0.0
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,max_verstappen,1997-09-30,Dutch,red_bull,2,44,1,1,87,2,1,15,q2,21.688
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,fernando_alonso,1981-07-29,Spanish,aston_martin,3,30,0,3,38,0,2,3,q3,0.4650000000000034
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,george_russell,1998-02-15,British,mercedes,4,18,0,6,38,0,3,4,q3,0.5919999999999987
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,lewis_hamilton,1985-01-07,British,mercedes,5,20,0,5,38,0,3,8,q3,0.9579999999999984
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,carlos_sainz,1994-09-01,Spanish,ferrari,6,20,0,4,26,0,4,5,q3,0.6659999999999968
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,charles_leclerc,1997-10-16,Monegasque,ferrari,7,6,0,8,26,0,4,2,q3,0.1550000000000011
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,esteban_ocon,1996-09-17,French,alpine,8,4,0,10,8,0,5,7,q3,0.8130000000000024
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,pierre_gasly,1996-02-07,French,alpine,9,4,0,11,8,0,5,10,q3,1.0919999999999987
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,kevin_magnussen,1992-10-05,Danish,haas,10,1,0,12,1,0,7,13,q2,1.3689999999999998
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,yuki_tsunoda,2000-05-11,Japanese,alphatauri,11,0,0,14,0,0,9,16,q1,1.6739999999999924
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,nico_hulkenberg,1987-08-19,German,haas,12,0,0,15,1,0,7,11,q2,1.1859999999999928
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,zhou_guanyu,1999-05-30,Chinese,alfa,13,0,0,17,4,0,6,12,q2,1.195999999999998
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,nyck_de vries,1995-02-06,Dutch,alphatauri,14,0,0,18,0,0,9,18,q1,1.9789999999999992
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,oscar_piastri,2001-04-06,Australian,mclaren,15,0,0,19,0,0,10,9,q3,0.9779999999999944
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,logan_sargeant,2000-12-31,American,williams,16,0,0,16,1,0,8,20,q1,40.24499999999999
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,lando_norris,1999-11-13,British,mclaren,17,0,0,20,0,0,10,19,q1,2.182000000000002
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,valtteri_bottas,1989-08-28,Finnish,alfa,18,4,0,9,4,0,6,14,q2,1.4030000000000058
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,alexander_albon,1996-03-23,Thai,williams,19,1,0,13,1,0,8,17,q1,1.7289999999999992
+2023,2,jeddah,Saudi Arabia,21.6319,39.1044,2023-03-19 17:00:00,lance_stroll,1998-10-29,Canadian,aston_martin,20,8,0,7,38,0,2,6,q3,0.6799999999999926
